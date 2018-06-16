@@ -22,4 +22,6 @@ The application will open in your web browser
 
 ## Preview
 ![alt text](https://github.com/MihailButnaru/RunApp/blob/master/WeatherApp.png)
+## Author
+@Mihail Butnaru
 
