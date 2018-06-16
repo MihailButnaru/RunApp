@@ -1,4 +1,4 @@
-#Preact Starter Kit for Run App
+#Preact Starter Kit for Runner
 
 A high-fi prototype weather app for runners
 
@@ -11,7 +11,7 @@ A high-fi prototype weather app for runners
 You can download it in your local machine or clone it:
   git clone https://
 
-**2.Specifications :**
+**2. Specifications :**
 
 After cloning the repository, ensure that you have latest version of npm and Node.js installed
 To run the package through your cmd interface:
@@ -21,3 +21,4 @@ To run the package through your cmd interface:
 The application will open in your web browser
 
 ## Preview
+
