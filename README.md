@@ -15,8 +15,10 @@ You can download it in your local machine or clone it:
 
 After cloning the repository, ensure that you have latest version of npm and Node.js installed
 To run the package through your cmd interface:
-  npm install // to install the latest version of npm
-  npm run dev // to run the app
+  ```
+  npm install    // To install the latest version of npm
+npm run dev    // To run the project
+```
 
 The application will open in your web browser
 
